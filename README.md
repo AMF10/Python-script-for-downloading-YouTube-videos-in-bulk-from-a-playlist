@@ -22,7 +22,6 @@ Install my-project with
     
  
 
-🍽️ Fun fact: I love cooking! I am a quick learner, highly motivated, and eager to gain new skills and knowledge in the field of data science. You can reach me through LinkedIn, Twitter, or Telegram 📫, and I am excited about the opportunities that this field offers. My ultimate goal is to leverage my technical background and analytical skills to make data-driven decisions and drive business growth 🚀.
 
 
 
