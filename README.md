@@ -14,7 +14,7 @@ Python ...
 
 ## Installation
 
-Install my-project with  
+Install Lib  with  
 
 ```bash
   pip install pytube
